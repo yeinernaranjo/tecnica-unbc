@@ -1,4 +1,2 @@
-# Configuración de despliegue
 [build]
-  # Especifica los archivos y directorios a incluir en el despliegue
-  include = ["public/assets"]
+  include = ["public/build/assets"]
