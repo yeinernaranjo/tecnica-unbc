@@ -32,7 +32,7 @@ En caso de obtener algún error ejecutar
 php artisan migrate:fresh
 ```
 
-5. Agrega los datos de ejemplo para obtener el usuario administrador
+5. Agrega los datos de ejemplo para obtener el usuario administrador (OPCIONAL)
 
 ```bash
 php artisan db:seed
